@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+```js
+  const myself = {
+    name : 'Danrley Santos',
+    education: 'Master in computer engineering at UEMA',
+    developer: 'Front-end | Web ',
+    skills: [
+     'JavaScript',
+     'NodeJS', 
+     'VueJs', 
+     'Nuxt',
+    ]
+ }
+
+```
+
 <!--
 **danrleyney2210/danrleyney2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
