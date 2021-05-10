@@ -14,6 +14,8 @@
     skills: [
      'JavaScript',
      'NodeJS', 
+     'React Js',
+     'React Native',
      'VueJs', 
      'Nuxt',
     ]
