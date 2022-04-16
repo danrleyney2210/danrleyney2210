@@ -13,11 +13,12 @@
     developer: 'Front-end | Web ',
     skills: [
      'JavaScript',
-     'NodeJS', 
+     'Typescript',
      'React Js',
-     'React Native',
-     'VueJs', 
-     'Nuxt',
+     'Next',
+     'NodeJS',
+     'GIT',
+     'Bootstrap'     
     ]
  }
 
