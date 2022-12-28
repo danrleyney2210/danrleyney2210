@@ -15,10 +15,13 @@
      'JavaScript',
      'Typescript',
      'React Js',
+     'React Native',
+     'Electron Js'
      'Next',
      'NodeJS',
      'GIT',
-     'Bootstrap'     
+     'Bootstrap',
+     'Firebase'
     ]
  }
 
