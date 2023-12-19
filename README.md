@@ -19,6 +19,7 @@
      'Electron Js'
      'Next',
      'NodeJS',
+     'Angula.Js',
      'GIT',
      'Bootstrap',
      'Firebase'
