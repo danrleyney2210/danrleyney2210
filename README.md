@@ -22,6 +22,8 @@
      'Angula.Js',
      'GIT',
      'Bootstrap',
+     'MongoDB',
+     'PostgreSQL',
      'Firebase'
     ]
  }
