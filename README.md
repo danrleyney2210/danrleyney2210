@@ -10,7 +10,7 @@
   const myself = {
     name : 'Danrley Santos',
     education: 'Master in computer engineering at UEMA',
-    developer: 'Front-end | Web ',
+    developer: 'Full stack developer focus Fontend | Web/mobile ',
     skills: [
      'JavaScript',
      'Typescript',
